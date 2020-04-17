@@ -1,0 +1,123 @@
+<resources>
+        
+    <string name="app_name">Khoá ứng dụng</string>
+    <string name="lock_first_btn" formatted="false">Bảo mật (% s)</string>
+     
+    <string name="lockscreen_access_pattern_cell_added">Thêm khoá</string>
+        
+    <string name="lockscreen_access_pattern_start">Vẽ hình mở khoá</string>
+        
+    <string name="lockscreen_access_pattern_detected">Mật khẩu đã được lưu</string>
+        
+    <string name="lockscreen_access_pattern_cleared">Mật khẩu đã bị xoá</string>
+          
+    <string name="lock_recording_intro_header">Thiết lập ứng dụng mở khoá</string>
+        
+    <string name="lock_settings_help_how_to_record">Làm thế nào để vẽ một hình mở khóa</string>
+        
+    <string name="lock_recording_incorrect_too_short">Bạn nên vẽ ít nhất 4 điểm.</string>
+        
+    <string name="lock_pattern_entered_header">Ghi hình</string>
+        
+    <string name="lock_need_to_confirm">Vẽ hình một lần nữa để xác nhận</string>
+        
+    <string name="lock_need_to_unlock_wrong">Các hình không phù hợp. Hãy thử lại một lần nữa.</string>
+        
+    <string name="password_gestrue_tips">Vẽ hình để mở khoá</string>
+        
+    <string name="password_error_count">Hình vẽ không phù hợp. Hãy thử lại một lần nữa.</string>
+        
+    <string name="lock_draw_unlock_pattern">Vẽ hình mở khóa</string>
+        
+    <string name="lock_enter_pin_code">Nhập mật khẩu số</string>
+        
+    <string name="lock_pattern_confirmed_header">Xác nhận mật khẩu</string>
+     
+        <!--Digital unlock related-->
+        
+    <string name="num_create_text_01">Nhập mật khẩu 4 số để mở khóa</string>
+        
+    <string name="num_create_text_02">Nhập một lần nữa để xác nhận</string>
+        
+    <string name="num_create_text_03">Mật khẩu không phù hợp, Hãy thử lại một lần nữa.</string>
+        
+    <string name="number_1">1</string>
+        
+    <string name="number_2">2</string>
+        
+    <string name="number_3">3</string>
+        
+    <string name="number_4">4</string>
+        
+    <string name="number_5">5</string>
+        
+    <string name="number_6">6</string>
+        
+    <string name="number_7">7</string>
+        
+    <string name="number_8">8</string>
+        
+    <string name="number_9">9</string>
+        
+    <string name="number_0">0 </string>
+        
+    <string name="password_short">Xin vui lòng nhập ít nhất 4 kí tự. </string>
+     
+       
+    <string-array name="lock_time_array">
+                
+        <item>15 giây</item>
+                
+        <item>30 giây</item>
+                
+        <item>1 phút</item>
+                
+        <item>3 phút</item>
+                
+        <item>5 phút</item>
+                
+        <item>10 phút</item>
+                
+        <item>30 phút</item>
+                
+        <item>Ngay lập tức </item>
+            
+    </string-array>
+     
+        
+    <string name="dialog_tip"> Ở những phiên bản Android lớn hơn hoặc bằng Android 5.0, Khoá ứng dụng cần có được những quyền ứng dụng
+    </string>
+    <string name="shubham_tyagi">Shubham tyagi</string>
+    <string name="github_https_github_com_subhamtyagi">GitHub:https://github.com/subhamtyagi</string>
+    <string name="upstream_developer">Upstream Developer</string>
+    <string name="up_stream_deve_name_espoir">Espoir</string>
+    <string name="github_https_github_com_espoir_x">GitHub:https://github.com/EspoirX/AppLock</string>
+    <string name="welcome_to_the_app_lock">Chào mừng bạn đến Khoá ứng dụng</string>
+    <string name="reset">Khôi phục</string>
+    <string name="create_pattern">Tạo khoá</string>
+    <string name="please_draw_your_pattern">Hãy vẽ hình của bạn</string>
+    <string name="identity_confirmation">Xác nhận danh tính</string>
+    <string name="search_application">Tìm ứng dụng</string>
+    <string name="settings">Cài đặt</string>
+    <string name="lock_settings">Khoá cài đặt</string>
+    <string name="lock_immediately_after_locking_the_screen">Khoá ứng dụng ngay lập tức khi khóa điện thoại</string>
+    <string name="open">Mở</string>
+    <string name="change_the_password">Đổi hình vẽ</string>
+    <string name="show_pattern">Hiện hình vẽ</string>
+    <string name="hide_pattern">Ẩn hình vẽ</string>
+    <string name="about_me">Thông tin về tôi</string>
+    <string name="go_to_give_permission">Giấy Phép pháp lý</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="search_applications">Tìm ứng dụng&#8230;</string>
+    <string name="search_for">Tìm kiếm&#8230;</string>
+    <string name="take_a_photo">Chụp hình kẻ xâm nhập</string>
+    <string name="_1_minute">1 phút</string>
+    <string name="apps">Ứng dụng</string>
+    <string name="accessibility_service_description">Cho phép này chỉ dùng cho khóa ứng dụng</string>
+    <string name="accessibility_service_name">Khoá ứng dụng</string>
+    <string name="lock_type">Loại khoá</string>
+    <string name="pattern_is_required">Mẫu hình vẽ được yêu cầu khi ứng dụng đã bị khóa được mở lên</string>
+    <string name="pattern_is_not_required">Không cần mẫu hình vẽ khi ứng dụng đã bị khóa được mở lên</string>
+    <string name="intruder_selfie">Chụp ảnh kẻ xâm nhập</string>
+    <string name="vibrate">Rung</string>
+</resources>
